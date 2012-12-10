@@ -1,7 +1,7 @@
 ---
 layout: page
 title: bibig
-tagline: 没有救世主
+tagline: "没有救世主"
 ---
 {% include JB/setup %}
 

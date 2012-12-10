@@ -1,7 +1,8 @@
 /* Override some defaults */
 html, body {
   background-color: #eee;
-  background-image: url('https://dl.dropbox.com/u/439385/bibig/bg.jpg');
+  /*background-image: url('https://dl.dropbox.com/u/439385/bibig/bg.jpg');*/
+  background-image: url('/assets/images/bg/nyc.jpg');
   background-repeat: no-repeat; 
   background-position: top center;
   background-attachment: fixed;
